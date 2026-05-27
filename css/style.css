@@ -22,7 +22,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #6b6363;
+  background: #62819b;
   color: rgb(7, 7, 7);
   padding: 20px;
   flex-wrap: wrap;
@@ -269,7 +269,7 @@ form textarea {
 
 /* ================= FOOTER ================= */
 footer {
-  background: #0B1F3A;
+  background: #62819b;
   color: white;
   padding: 30px;
   text-align: center;
@@ -281,7 +281,7 @@ footer {
   nav {
     display: none;
     flex-direction: column;
-    background: #0B1F3A;
+    background: #62819b;
     position: absolute;
     top: 100%;
     left: 0;
