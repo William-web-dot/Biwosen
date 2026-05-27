@@ -22,8 +22,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #0B1F3A;
-  color: white;
+  background: #6b6363;
+  color: rgb(7, 7, 7);
   padding: 20px;
   flex-wrap: wrap;
   position: sticky;
@@ -42,7 +42,7 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: rgb(248, 247, 247);
   margin-left: 15px;
   text-decoration: none;
 }
@@ -308,4 +308,13 @@ footer {
   .section {
     padding: 25px 15px;
   }
+
+  .logo {
+  font-weight: bold;
+  font-size: 16px;
+  max-width: 70%;
+  /* ADD THESE: */
+  display: flex;
+  align-items: center;
+}
 }
